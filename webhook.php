@@ -1,7 +1,7 @@
 <?php
 // GitHub Webhook Secret.
 // GitHub项目 Settings/Webhooks 中的 Secret
-$secret = "gs215zyy41";
+$secret = "123456";
 
 // Path to your respostory on your server.
 // e.g. "/var/www/respostory"
